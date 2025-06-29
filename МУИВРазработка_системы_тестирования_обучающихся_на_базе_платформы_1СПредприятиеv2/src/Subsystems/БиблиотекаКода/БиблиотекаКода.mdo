@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b0766624-e7dd-4b79-a88a-52276c15445b">
+  <name>БиблиотекаКода</name>
+  <synonym>
+    <key>ru</key>
+    <value>Библиотека кода</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.МетаданныеОбщие</picture>
+  </picture>
+  <subsystems>Справочники</subsystems>
+</mdclass:Subsystem>
